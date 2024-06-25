@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetMulakat.App", "DotNetMulakat.App.csproj", "{ACF30597-1032-4F0A-892D-BB3F3049778E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF30597-1032-4F0A-892D-BB3F3049778E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF30597-1032-4F0A-892D-BB3F3049778E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF30597-1032-4F0A-892D-BB3F3049778E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF30597-1032-4F0A-892D-BB3F3049778E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {574DACDF-B8A8-43E4-AC30-A534D7F1D383}
+	EndGlobalSection
+EndGlobal
